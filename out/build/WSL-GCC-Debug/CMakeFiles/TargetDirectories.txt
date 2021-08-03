@@ -1,0 +1,5 @@
+/mnt/c/Users/Daria/source/repos/Server/out/build/WSL-GCC-Debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Daria/source/repos/Server/out/build/WSL-GCC-Debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Daria/source/repos/Server/out/build/WSL-GCC-Debug/Server/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Daria/source/repos/Server/out/build/WSL-GCC-Debug/Server/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Daria/source/repos/Server/out/build/WSL-GCC-Debug/Server/CMakeFiles/Server.dir
