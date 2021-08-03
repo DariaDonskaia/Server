@@ -13,14 +13,9 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <fcntl.h>
-#include <algorithm>
-#include <set>
-#include <fcntl.h> 
-#include <unistd.h> 
 #include <thread>
 #include <pthread.h>
 #include <list>
-#include <malloc.h>
 #include <thread> 
 #include <vector> 
 #include <queue> 
